@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jkcharlie6679.
 - 👀 I’m interested in full-stack development, cloud service.
 - 📖 I'm studing the Open Air Interface.
-- Welcome to my [blog](https://jkcharlie6679.github.io) and leave some comments
+- 📟 Welcome to my [blog](https://jkcharlie6679.github.io) and leave some comments
 
 <table align="center">
 <tr>
