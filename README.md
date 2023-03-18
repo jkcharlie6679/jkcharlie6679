@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jkcharlie6679.
+- 👋 Hi, I’m Tsung-Yu Chan.
 - 👀 I’m interested in full-stack development, cloud service.
-- 📖 I'm studing the Open Air Interface.
+- 📖 I'm studying the Open Air Interface about the physical layer of 5G gNB.
 - 📟 Welcome to my [blog](https://tycharlie.com) and leave some comments
 
 <table align="center">
@@ -13,6 +13,6 @@
   </td>
 </tr>
 
-<!---
+<!-- -
 [GitHub stats](https://github.com/anuraghazra/github-readme-stats)
---->
+- -->
